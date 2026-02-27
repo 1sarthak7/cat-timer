@@ -20,11 +20,6 @@
   </a>
   <a href="https://github.com/1sarthak7/cat-timer/issues">
     <img src="https://img.shields.io/github/issues/1sarthak7/cat-timer?style=for-the-badge&logo=github&color=FFC0CB&logoColor=white&labelColor=FF69B4" alt="Issues">
-  </a>
-  <a href="https://github.com/1sarthak7/cat-timer/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/1sarthak7/cat-timer?style=for-the-badge&color=FF1493&logoColor=white&labelColor=E75480" alt="License">
-  </a>
-</p>
 
 <!-- Tech Stack Badges -->
 <p>
@@ -48,7 +43,7 @@
 
 <br>
 
-## 🌸 Preview
+##  Preview
 
 <div align="center">
 
@@ -77,11 +72,11 @@
 
 <br>
 
-## ✨ Features
+##  Features
 
 <div align="center">
 
-| 🎀 Feature | 📝 Description |
+| Feature | Description |
 |:---|:---|
 | ⏱ **Countdown Timer** | Set hours, minutes & seconds with a beautiful circular progress ring |
 | ⏰ **Alarm Clock** | Set multiple alarms with AM/PM toggle and live clock display |
@@ -100,7 +95,7 @@
 
 <br>
 
-## 🎬 Animations
+##  Animations
 
 <div align="center">
 
@@ -201,7 +196,7 @@
 
 <br>
 
-## 🐱 Meet the Mascot
+##  Meet the Mascot
 
 <div align="center">
 
@@ -241,7 +236,7 @@
 
 <br>
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -283,16 +278,16 @@ python3 app.py
 
 ```
 cat-timer/
-├── 🐍 app.py                  # Main application (~680 lines)
-├── 📁 assets/
-│   ├── 🐱 cat_sleeping.png    # Sleeping cat mascot
-│   ├── 🐱 cat_alert.png       # Alert cat mascot
-│   ├── 🐱 cat_celebrate.png   # Celebrating cat mascot
-│   ├── 🖼️ banner.png          # README banner
-│   ├── 🖼️ app_preview.png     # App preview image
-│   └── 🖼️ features_preview.png # Features preview
-├── 📄 README.md
-└── 📁 venv/                   # Virtual environment
+├──  app.py                  # Main application (~680 lines)
+├──  assets/
+│   ├──  cat_sleeping.png    # Sleeping cat mascot
+│   ├──  cat_alert.png       # Alert cat mascot
+│   ├──  cat_celebrate.png   # Celebrating cat mascot
+│   ├──  banner.png          # README banner
+│   ├──  app_preview.png     # App preview image
+│   └──  features_preview.png # Features preview
+├──  README.md
+└──  venv/                   # Virtual environment
 ```
 
 <br>
@@ -326,11 +321,11 @@ cat-timer/
 
 <br>
 
-## 🤝 Contributing
+##  Contributing
 
 <div align="center">
 
-Contributions are welcome! Feel free to open an issue or submit a pull request. 💖
+Contributions are welcome! Feel free to open an issue or submit a pull request. 
 
 <br>
 
